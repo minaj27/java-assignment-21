@@ -1,0 +1,21 @@
+button{
+    background-color: darkred;
+    color: white;
+    margin: 15px;
+    border: none;
+    padding: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    width: 100px;
+    box-shadow: 8px 8px 8px black;
+}
+h5{
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+hr{
+    border-style: solid;
+    border-color: darkred;
+    border-width: 3px;
+}
